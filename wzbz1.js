@@ -18,7 +18,7 @@
 
 使用方法：
 1、QX > 右下角风车 > 重写 > 规则资源 > 引用以下脚本 > 打开资源解析器
-https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoWenZhenBaZi.js
+https://raw.githubusercontent.com/yztwei/js/refs/heads/main/wzbz1.js
 
 ********************************
 
